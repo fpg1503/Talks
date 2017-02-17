@@ -18,6 +18,7 @@ Thanks! 🐥
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
 | Dec 3, 2016 |  [Good Code - O que é e como fazer!](goodCode) | [CocoaHeads Conference][cocoaheads-conf] | [Mercado Livre HQ][mercadolivre] |
+| Aug 2, 2016 | [Emojicode: programando com Emojis][emojicode] | [Secomp 2016][secomp] | [IC - UNICAMP][ic] |
 | Jul 6, 2016 | [A coisa mais sensacional que passou despercebida na WWDC](https://github.com/fpg1503/AmazingSpeechFrameworkTalk)  | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Jul 5, 2016 | [A coisa mais sensacional que passou despercebida na WWDC](https://github.com/fpg1503/AmazingSpeechFrameworkTalk)  | [TDC SP 2016][tdc-sp-2016] | São Paulo |
 | May 31, 2016 | Storyboard? Xib Or ViewCoding? (panel with [gsampaio][mentos] and [xdoug7][dogra]) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
@@ -40,6 +41,7 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [tdc-sp-2015]: http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/trilha-ios
   [tdc-sp-2016]: http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-ios
   [tdc-fln-2016]: http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-ios
+  [secomp]: http://www.secomp.com.br
   
   [goodCode]: https://github.com/fpg1503/GoodCodeTalk
   [speech]: https://github.com/fpg1503/AmazingSpeechFrameworkTalk
@@ -51,6 +53,7 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [movile]: https://www.movile.com/
   [mercadolivre]: https://www.mercadolivre.com.br
   [cit]: http://www.ciandt.com/home
+  [ic]: http://ic.unicamp.br
   
   [mentos]: https://github.com/gsampaio
   [dogra]: https://github.com/xdoug7
