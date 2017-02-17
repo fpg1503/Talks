@@ -21,7 +21,7 @@ Thanks! 🐥
 | Jul 6, 2016 | [A coisa mais sensacional que passou despercebida na WWDC](https://github.com/fpg1503/AmazingSpeechFrameworkTalk)  | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Jul 5, 2016 | [A coisa mais sensacional que passou despercebida na WWDC](https://github.com/fpg1503/AmazingSpeechFrameworkTalk)  | [TDC SP 2016][tdc-sp-2016] | São Paulo |
 | May 31, 2016 | Storyboard? Xib Or ViewCoding? (panel with [gsampaio][mentos] and [xdoug7][dogra]) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
-| May 12, 2016 | [Optionals e o Gato de Schrödinger][optionals] | TDC 2016][tdc-fln-2016] | Florianópolis | 
+| May 12, 2016 | [Optionals e o Gato de Schrödinger][optionals] | [TDC 2016][tdc-fln-2016] | Florianópolis | 
 | Apr 26, 2016 |  Swift Panel (panel with [gsampaio][mentos], [eltonmendes][elton] and [marcelofabri][fabri]) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Feb 29, 2016 | [Optionals e o Gato de Schrödinger][optionals] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Jan 26, 2016 | [FRP em Swift](frp) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
