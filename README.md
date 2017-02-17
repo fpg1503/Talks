@@ -3,7 +3,7 @@
 
 ## Can you speak at my conference?
 
-If you’re interested in having me speak at a conference you are organizing, please send me a message at <fpg1503@gmail.com>. 
+ If you'd like me to speak at your conference get in touch! You can reach me at <fpg1503@gmail.com> or [@fpg1503](https://twitter.com/fpg1503).
 
 Thanks! 🐥
 
