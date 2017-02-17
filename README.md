@@ -1,17 +1,20 @@
 # Talks
 🎤 A growing list of past and future talks
 
-One of my goals is to present at more places. Here is my up-to-date schedule for the near future.
+## Can you speak at my conference?
+
+If you’re interested in having me speak at a conference you are organizing, please send me a message at <fpg1503@gmail.com>. 
+
+Thanks! 🐥
+
+One of my current goals is to present at more places! Most of my talks so far are in portuguese but I'm aiming to change that.
+Here is my up-to-date schedule for the near future:
 
 ## Upcoming Talks
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
 | Feb 21, 2017 |  Caterpillar: de ideia a publicação - criando seus próprios frameworks | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
-
-If you’re interested in having me speak at a conference you are organizing, please send me a message at <fpg1503@gmail.com>. 
-
-Thanks! 🐥
 
 ## Past Talks
 
