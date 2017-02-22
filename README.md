@@ -21,7 +21,7 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-|  Feb 21, 2017 |  [Caterpillar: de ideia a publicação - criando seus próprios frameworks](caterpillar) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
+|  Feb 21, 2017 |  [Caterpillar: de ideia a publicação - criando seus próprios frameworks][caterpillar] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Dec 3, 2016 |  [Good Code - O que é e como fazer!][goodCode] | [CocoaHeads Conference][cocoaheads-conf] | [Mercado Livre HQ][mercadolivre] |
 | Aug 2, 2016 | [Emojicode: programando com Emojis][emojicode] | [Secomp 2016][secomp] | [IC - UNICAMP][ic] |
 | Jul 6, 2016 | [A coisa mais sensacional que passou despercebida na WWDC](https://github.com/fpg1503/AmazingSpeechFrameworkTalk)  | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
