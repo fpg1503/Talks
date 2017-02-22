@@ -14,7 +14,7 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| TBD        | TBD | TBD | TBD |
+| Feb 24, 2017 | Fastalane: deploying apps shouldn't be hard | MoobieTalks | [Moobie HQ][moobie] |
 
 
 ## Past Talks
@@ -56,6 +56,7 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [emojicode]: https://github.com/fpg1503/EmojicodeTalk
   [swift20]: https://github.com/fpg1503/WhatsNewInSwift2Talk
   
+  [moobie]: https://www.moobie.com.br
   [movile]: https://www.movile.com/
   [mercadolivre]: https://www.mercadolivre.com.br
   [cit]: http://www.ciandt.com/home
