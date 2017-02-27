@@ -30,7 +30,7 @@ Here is my up-to-date schedule for the near future:
 | May 12, 2016 | [Optionals e o Gato de Schrödinger][optionals] | [TDC 2016][tdc-fln-2016] | Florianópolis | 
 | Apr 26, 2016 |  Swift Panel (panel with [gsampaio][mentos], [eltonmendes][elton] and [marcelofabri][fabri]) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Feb 29, 2016 | [Optionals e o Gato de Schrödinger][optionals] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
-| Jan 26, 2016 | [FRP em Swift](frp) | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
+| Jan 26, 2016 | [FRP em Swift][frp] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Jul 23, 2015 | SpriteKit no Playkids | [TDC SP 2015][tdc-sp-2015] | São Paulo | 
 | Jun 30, 2015 | [Novidades do Swift 2.0][swift20] | [CocoaHeads CPS][cocoaheads-cps] | [CI&T HQ][cit] |
 | Feb 26, 2015 | Programação funcional em Swift | [CocoaHeads CPS][cocoaheads-cps] | [CI&T HQ][cit] |
