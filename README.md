@@ -14,14 +14,16 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| Feb 24, 2017 | Fastalane: deploying apps shouldn't be hard | MoobieTalks | [Moobie HQ][moobie] |
+| TBD | Elm: Functional Reactive Awesomeness | MoobieTalks | [Moobie HQ][moobie] |
 
 
 ## Past Talks
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-|  Feb 21, 2017 |  [Caterpillar: de ideia a publicação - criando seus próprios frameworks][caterpillar] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
+| Jul 20, 2017 | [Writing layouts programmatically: improving code reuse and efficience](layout) | [TDC SP 2017][tdc-sp-2017] | São Paulo |
+| Feb 24, 2017 | Fastalane: deploying apps shouldn't be hard | MoobieTalks | [Moobie HQ][moobie] |
+| Feb 21, 2017 |  [Caterpillar: de ideia a publicação - criando seus próprios frameworks][caterpillar] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Dec 3, 2016 |  [Good Code - O que é e como fazer!][goodCode] | [CocoaHeads Conference][cocoaheads-conf] | [Mercado Livre HQ][mercadolivre] |
 | Aug 2, 2016 | [Emojicode: programando com Emojis][emojicode] | [Secomp 2016][secomp] | [IC - UNICAMP][ic] |
 | Jul 6, 2016 | [A coisa mais sensacional que passou despercebida na WWDC](https://github.com/fpg1503/AmazingSpeechFrameworkTalk)  | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
@@ -45,6 +47,7 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [cocoaheads-conf]: http://cocoaheadsconference.com.br
   [tdc-sp-2015]: http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/trilha-ios
   [tdc-sp-2016]: http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-ios
+  [tdc-sp-2017]: http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-ios
   [tdc-fln-2016]: http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-ios
   [secomp]: http://www.secomp.com.br
   
@@ -55,6 +58,7 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [frp]: https://github.com/fpg1503/FRPTalk
   [emojicode]: https://github.com/fpg1503/EmojicodeTalk
   [swift20]: https://github.com/fpg1503/WhatsNewInSwift2Talk
+  [layout]: https://github.com/fpg1503/ProgrammaticLayoutTalk
   
   [moobie]: https://www.moobie.com.br
   [movile]: https://www.movile.com/
