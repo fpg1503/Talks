@@ -14,13 +14,19 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| TBD | Elm: Functional Reactive Awesomeness | MoobieTalks | [Moobie HQ][moobie] |
+| Dec 8, 2018 | Assuring quality in Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dc] | Porto Alegre |
+| Dec 7, 2018 | Testing Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dt] | Porto Alegre |
+| Nov 11, 2018 | Real-life testing - Workshop | [CocoaHeads Conference][cocoaheads-conf] | [Nubank HQ][nubank] |
 
 
 ## Past Talks
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| May 25, 2018 | Elm: Functional Reactive Awesomeness | MoobieTalks | [Moobie HQ][moobie] |
+| Jan 8, 2017 | Master Key - Opening Cars using BLE and Asymmetric Cryptography - Lessons Learned | MoobieTalks | [Moobie HQ][moobie] |
+| Dec 7, 2017 | Swift Summit 2017: Recap | MoobieTalks | [Moobie HQ][moobie] |
+| Aug 15, 2017 | Writing a scalable and secure chat using serverless architecture and Node.js | MoobieTalks | [Moobie HQ][moobie] |
 | Jul 20, 2017 | [Writing layouts programmatically: improving code reuse and efficience](layout) | [TDC SP 2017][tdc-sp-2017] | São Paulo |
 | Feb 24, 2017 | Fastalane: deploying apps shouldn't be hard | MoobieTalks | [Moobie HQ][moobie] |
 | Feb 21, 2017 |  [Caterpillar: de ideia a publicação - criando seus próprios frameworks][caterpillar] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
@@ -50,6 +56,8 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [tdc-sp-2017]: http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-ios
   [tdc-fln-2016]: http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-ios
   [secomp]: http://www.secomp.com.br
+  [tdc-poa-2018-dt]: http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-devtest
+  [tdc-poa-2018-dc]: http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-design-de-codigo
   
   [caterpillar]: https://github.com/fpg1503/MakingFrameworksTalk
   [goodCode]: https://github.com/fpg1503/GoodCodeTalk
@@ -65,8 +73,10 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [mercadolivre]: https://www.mercadolivre.com.br
   [cit]: http://www.ciandt.com/home
   [ic]: http://ic.unicamp.br
+  [nubank]: https://nubank.com.br
   
   [mentos]: https://github.com/gsampaio
   [dogra]: https://github.com/xdoug7
   [elton]: https://github.com/eltonmendes
   [fabri]: https://github.com/marcelofabri
+  [marotinho]: https://github.com/vmaraccini
