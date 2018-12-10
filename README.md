@@ -14,20 +14,21 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| Dec 8, 2018 | Ensuring quality in Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dc] | Porto Alegre |
-| Dec 7, 2018 | Testing Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dt] | Porto Alegre |
-| Nov 11, 2018 | Real-life testing - Workshop | [CocoaHeads Conference][cocoaheads-conf] | [Nubank HQ][nubank] |
+| TBD | Flaky Test 101 | TBD | TBD |
 
 
 ## Past Talks
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| Dec 8, 2018 | [Ensuring quality in the Nubank App][quality-nu] (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dc] | Porto Alegre |
+| Dec 7, 2018 | [Testing Nubank App][test-nu] (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dt] | Porto Alegre |
+| Nov 11, 2018 | [Real-life testing - Workshop][test-workshop] | [CocoaHeads Conference][cocoaheads-conf] | [Nubank HQ][nubank] |
 | May 25, 2018 | Elm: Functional Reactive Awesomeness | MoobieTalks | [Moobie HQ][moobie] |
 | Jan 8, 2017 | Master Key - Opening Cars using BLE and Asymmetric Cryptography - Lessons Learned | MoobieTalks | [Moobie HQ][moobie] |
 | Dec 7, 2017 | Swift Summit 2017: Recap | MoobieTalks | [Moobie HQ][moobie] |
 | Aug 15, 2017 | Writing a scalable and secure chat using serverless architecture and Node.js | MoobieTalks | [Moobie HQ][moobie] |
-| Jul 20, 2017 | [Writing layouts programmatically: improving code reuse and efficience](layout) | [TDC SP 2017][tdc-sp-2017] | São Paulo |
+| Jul 20, 2017 | [Writing layouts programmatically: improving code reuse and efficience][layout] | [TDC SP 2017][tdc-sp-2017] | São Paulo |
 | Feb 24, 2017 | Fastalane: deploying apps shouldn't be hard | MoobieTalks | [Moobie HQ][moobie] |
 | Feb 21, 2017 |  [Caterpillar: de ideia a publicação - criando seus próprios frameworks][caterpillar] | [CocoaHeads CPS][cocoaheads-cps] | [Movile HQ][movile] |
 | Dec 3, 2016 |  [Good Code - O que é e como fazer!][goodCode] | [CocoaHeads Conference][cocoaheads-conf] | [Mercado Livre HQ][mercadolivre] |
@@ -67,6 +68,9 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [emojicode]: https://github.com/fpg1503/EmojicodeTalk
   [swift20]: https://github.com/fpg1503/WhatsNewInSwift2Talk
   [layout]: https://github.com/fpg1503/ProgrammaticLayoutTalk
+  [quality-nu]: https://speakerdeck.com/fpg1503/garantindo-qualidade-no-app-do-nubank
+  [test-nu]: https://speakerdeck.com/fpg1503/testando-o-app-do-nubank
+  [test-workshop]: https://github.com/fpg1503/TestsWorkshop
   
   [moobie]: https://www.moobie.com.br
   [movile]: https://www.movile.com/
