@@ -14,7 +14,7 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| Dec 8, 2018 | Assuring quality in Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dc] | Porto Alegre |
+| Dec 8, 2018 | Ensuring quality in Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dc] | Porto Alegre |
 | Dec 7, 2018 | Testing Nubank App (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dt] | Porto Alegre |
 | Nov 11, 2018 | Real-life testing - Workshop | [CocoaHeads Conference][cocoaheads-conf] | [Nubank HQ][nubank] |
 
