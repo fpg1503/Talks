@@ -21,6 +21,9 @@ Here is my up-to-date schedule for the near future:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| Feb 2, 2019  | CocoaHeads Panel (with [alinekborges][aline], [bruno-hcr][bruno-hcr], [fnazarios][nazario], [GuilhermeMachado][guilherme-menon], [lucascyp][lucas-cypriano], and [loloop][mauricio]) | [CocoaHeads ES #1][cocoaheads-es-1] | [Pic Pay HQ][picpay] |
+| Feb 2, 2019 | [Testing Nubank App][test-nu] | [CocoaHeads ES #1][cocoaheads-es-1] | [Pic Pay HQ][picpay] |
+| Jan 31, 2019 | [Testing Nubank App][test-nu-cocoa] | [CocoaHeads SP][cocoaheads-sp-jan-19] | [Nubank HQ][nubank] |
 | Dec 8, 2018 | [Ensuring quality in the Nubank App][quality-nu] (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dc] | Porto Alegre |
 | Dec 7, 2018 | [Testing Nubank App][test-nu] (with [vmaraccini][marotinho]) | [TDC POA 2018][tdc-poa-2018-dt] | Porto Alegre |
 | Nov 11, 2018 | [Real-life testing - Workshop][test-workshop] | [CocoaHeads Conference][cocoaheads-conf] | [Nubank HQ][nubank] |
@@ -59,6 +62,8 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [secomp]: http://www.secomp.com.br
   [tdc-poa-2018-dt]: http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-devtest
   [tdc-poa-2018-dc]: http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-design-de-codigo
+  [cocoaheads-sp-jan-19]: https://www.cocoaheads.com.br/agendas/detalhes/266
+  [cocoaheads-es-1]: https://www.cocoaheads.com.br/agendas/detalhes/268
   
   [caterpillar]: https://github.com/fpg1503/MakingFrameworksTalk
   [goodCode]: https://github.com/fpg1503/GoodCodeTalk
@@ -71,6 +76,7 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [quality-nu]: https://speakerdeck.com/fpg1503/garantindo-qualidade-no-app-do-nubank
   [test-nu]: https://speakerdeck.com/fpg1503/testando-o-app-do-nubank
   [test-workshop]: https://github.com/fpg1503/TestsWorkshop
+  [test-nu-cocoa]: https://speakerdeck.com/fpg1503/testando-o-app-do-nubank-cocoaheads
   
   [moobie]: https://www.moobie.com.br
   [movile]: https://www.movile.com/
@@ -78,9 +84,16 @@ Inspired on [ayanonagon/talks](https://github.com/ayanonagon/talks) and [ayunav/
   [cit]: http://www.ciandt.com/home
   [ic]: http://ic.unicamp.br
   [nubank]: https://nubank.com.br
+  [picpay]: https://picpay.com/site
   
   [mentos]: https://github.com/gsampaio
   [dogra]: https://github.com/xdoug7
   [elton]: https://github.com/eltonmendes
   [fabri]: https://github.com/marcelofabri
   [marotinho]: https://github.com/vmaraccini
+  [aline]: https://github.com/alinekborges
+  [bruno-hcr]: https://github.com/bruno-hcr
+  [nazario]: https://github.com/fnazarios
+  [guilherme-menon]: https://github.com/GuilhermeMachado
+  [lucas-cypriano]: https://github.com/lucascyp
+  [mauricio]: https://github.com/loloop
